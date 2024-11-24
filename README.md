@@ -1,11 +1,11 @@
-# Expense Tracker - Vite + React + TS + Redux + Boostrap CSS
-Expense Tracker - Vite + React + TS + Redux + Boostrap CSS
+# Expense Tracker
+Expense Tracker
 
-A simple yet powerful expense tracking application built with React, TypeScript, Redux Toolkit, and Bootstrap CSS.  This project allows you to:
+A simple yet powerful expense tracking application built with React, TypeScript, Redux Toolkit, and Bootstrap CSS.
 
 ## Live Demo
 
-You can check out the live demo of the application here: [Expense Tracker Demo](https://expense-tracker-vite-react-ts-redux.netlify.app/)
+Live demo of the application here: [Expense Tracker Demo]()
 
 ##
 
@@ -37,12 +37,6 @@ You can check out the live demo of the application here: [Expense Tracker Demo](
 - **Date-fns:** A library for manipulating and formatting dates.
 - **react-csv:** A library to help you build CSV download functionality in React.
 - **uuid:** Library for generating unique IDs for expenses. 
-
-## Installation
-
-1. **Prerequisites:**
-   - Node.js (version 14 or higher)
-   - npm (or yarn): Usually comes bundled with Node.js.
 
 2. **Clone the repository:**
    ```bash
