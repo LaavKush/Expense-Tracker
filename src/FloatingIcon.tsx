@@ -41,7 +41,7 @@ const FloatingIcon: React.FC = () => {
                     Laavanya Kushwaha
                   </ListGroup.Item>
                   <ListGroup.Item>
-                    laavanya2004kusha@gmail.com
+                    laavanya2004kush@gmail.com
                   </ListGroup.Item>
                   <ListGroup.Item>
                   <a
