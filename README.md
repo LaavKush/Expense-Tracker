@@ -5,7 +5,7 @@ A simple yet powerful expense tracking application built with React, TypeScript,
 
 ## Live Demo
 
-Live demo of the application here: [Expense Tracker Demo]()
+Live demo of the application here: [Expense Tracker Demo](https://expense-tracker-three-cyan.vercel.app/)
 
 ##
 
